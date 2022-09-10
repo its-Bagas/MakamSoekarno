@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f3d5d0;
+}
+
+#projects {
+  background-color: #f3d5d0;
+}
+
+section {
+  padding-top: 5rem;
+}
+#Perpustakaan {
+  background-color: #f3d5d0;
+}
+#Cdr {
+  background-color: #f3d5d0;
+}
+#gb {
+  background-color: #f3d5d0;
+}
