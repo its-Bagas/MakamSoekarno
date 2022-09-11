@@ -19,3 +19,6 @@ section {
 #gb {
   background-color: #f3d5d0;
 }
+body {
+  overflow-x: hidden;
+}
